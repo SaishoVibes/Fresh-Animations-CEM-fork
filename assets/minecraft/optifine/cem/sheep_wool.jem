@@ -6,7 +6,7 @@
 			"part": "body",
 			"id": "body",
 			"invertAxis": "xy",
-			"translate": [0, -13, -7],
+			"translate": [0, -13, -8],
 			"submodels": [
 				{
 					"id": "Created_by_FreshLX_for_Fresh_Animations",
